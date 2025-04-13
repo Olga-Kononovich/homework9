@@ -73,6 +73,9 @@ public class Main {
             array[right] = temp;
             left++;
             right--;
+
+
+
         }
     }
 
