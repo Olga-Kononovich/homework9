@@ -62,6 +62,7 @@ public class Main {
         System.out.println(reverseFullName);
     }
 
+
     public static void reverseArray(char[] array) {
         int left = 0;
         int right = array.length - 1;
